@@ -1,0 +1,33 @@
+# VPN PRIVACY AND SECURITY REPORT
+
+$ Tools
+   -- Proton VPN (free)
+   -- speedtest-cli
+   -- whatismyipaddress.com
+   -- dnsleaktest.com
+
+$ Proton VPN (free)
+   -- vpn service
+   -- chose United States Server
+   -- screenshot attached
+
+$ speedtest-cli
+   -- command : speedtest-cli
+   -- used for testing the internet speed
+   -- noticed difference when connected and not connected to VPN
+   -- screenshots attached
+   
+$ whatismyipaddress.com
+   -- used to check our IP address
+   -- after connecting to VPN, my IP address and Location changed
+   
+$ dnsleaktest.com
+   -- used to check our IP address
+   -- similar to whatisipaddress.com
+   -- after connecting to VPN, my IP address and Location changed
+   
+$ Security 
+   -- Symmetric Encryption : AES256 or ChaCha20
+   -- Protocol : OpenVPN or IKEv2
+   -- Asymmetric Encrption : Diffie-Hellman (key exchange to securely generate session keys)
+
